@@ -1,6 +1,6 @@
 @import "{{ site.theme }}";
 
-#header .credits {
+#header, .credits {
     display: none;
 }
 // from StackOverflow https://stackoverflow.com/questions/46375765/how-do-you-remove-header-on-github-pages
